@@ -60,3 +60,7 @@ h1.classList.toggle("heading")
 const div = document.querySelector("#div")
 
 div.classList.add("hello")
+
+
+// ********** EVENTS ************ //
+
