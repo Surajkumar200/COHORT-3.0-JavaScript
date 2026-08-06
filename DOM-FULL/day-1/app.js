@@ -75,3 +75,6 @@ h1.innerHTML = `  <ul>
             <li>5</li>
             <li>6</li>
         </ul>`;
+
+
+        h1.style.backgroundColor = "blue"
